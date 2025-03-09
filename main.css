@@ -4,13 +4,13 @@ body {
     padding: 0;
 }
 
-.flex-container {
+.screen {
     display: flex;
     height: 100vh; 
     width: 100%; 
 }
 
-.flex-item {
+.grid {
     flex: 1; 
     border: 2px ridge black;
     padding: 20px; 
